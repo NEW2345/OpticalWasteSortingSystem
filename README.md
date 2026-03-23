@@ -1,3 +1,3 @@
 # OpticalWasteSortingSystem
 
-Made by VRQ2, <NEW2345>, <2XD>
+Made by VRQ2, < NEW2345>, <2XD>

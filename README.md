@@ -1,6 +1,5 @@
 # Optical Waste Sorting System
 ---
-
 Welcome to the Optical Waste Sorting System repository! We are a group of aspiring developers and AI enthusiasts from the SKN D&A (Data & AI) research circle at the PK Cracow University of Technology.
 
 ##About the Project
